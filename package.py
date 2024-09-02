@@ -16,7 +16,7 @@ class AccessOm2(BundlePackage):
 
     maintainers("micael")
 
-    version("latest")
+    version(("1.0.0")
 
     variant("deterministic", default=False, description="Deterministic build.")
 
